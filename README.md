@@ -5,6 +5,8 @@ Notes
     1. Stage Files - `git add <FileName>` or git add .
     2. `git status`- tells status of the local repo
     3. to commit `git commit -m "Message to commit with"`
-    4. time to push - git push 
+    4. time to push - git push
+    5. Pull Changes from remote -`git pull`
+    6. 
 
 
